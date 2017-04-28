@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="GymCard"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="D:/CLionProjects/GymCard/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/C/64/MinGW64/bin/mingw32-make.exe -f &quot;D:/CLionProjects/GymCard/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="D:/C/64/MinGW64/bin/mingw32-make.exe -f &quot;D:/CLionProjects/GymCard/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/C/64/MinGW64/bin/mingw32-make.exe -f &quot;D:/CLionProjects/GymCard/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/C/64/MinGW64/bin/mingw32-make.exe -f &quot;D:/CLionProjects/GymCard/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="GymCard">
+				<Option output="D:/CLionProjects/GymCard/cmake-build-debug/GymCard.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/CLionProjects/GymCard/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="d:\c\64\mingw64\bin\../lib/gcc/x86_64-w64-mingw32/4.8.1/include/c++"/>
+					<Add directory="d:\c\64\mingw64\bin\../lib/gcc/x86_64-w64-mingw32/4.8.1/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="d:\c\64\mingw64\bin\../lib/gcc/x86_64-w64-mingw32/4.8.1/include/c++/backward"/>
+					<Add directory="d:\c\64\mingw64\bin\../lib/gcc/x86_64-w64-mingw32/4.8.1/include"/>
+					<Add directory="d:\c\64\mingw64\bin\../lib/gcc/x86_64-w64-mingw32/4.8.1/../../../../include"/>
+					<Add directory="d:\c\64\mingw64\bin\../lib/gcc/x86_64-w64-mingw32/4.8.1/include-fixed"/>
+					<Add directory="d:\c\64\mingw64\bin\../lib/gcc/x86_64-w64-mingw32/4.8.1/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/C/64/MinGW64/bin/mingw32-make.exe -f &quot;D:/CLionProjects/GymCard/cmake-build-debug/Makefile&quot;  VERBOSE=1 GymCard"/>
+					<CompileFile command="D:/C/64/MinGW64/bin/mingw32-make.exe -f &quot;D:/CLionProjects/GymCard/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/C/64/MinGW64/bin/mingw32-make.exe -f &quot;D:/CLionProjects/GymCard/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/C/64/MinGW64/bin/mingw32-make.exe -f &quot;D:/CLionProjects/GymCard/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="GymCard/fast">
+				<Option output="D:/CLionProjects/GymCard/cmake-build-debug/GymCard.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/CLionProjects/GymCard/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="d:\c\64\mingw64\bin\../lib/gcc/x86_64-w64-mingw32/4.8.1/include/c++"/>
+					<Add directory="d:\c\64\mingw64\bin\../lib/gcc/x86_64-w64-mingw32/4.8.1/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="d:\c\64\mingw64\bin\../lib/gcc/x86_64-w64-mingw32/4.8.1/include/c++/backward"/>
+					<Add directory="d:\c\64\mingw64\bin\../lib/gcc/x86_64-w64-mingw32/4.8.1/include"/>
+					<Add directory="d:\c\64\mingw64\bin\../lib/gcc/x86_64-w64-mingw32/4.8.1/../../../../include"/>
+					<Add directory="d:\c\64\mingw64\bin\../lib/gcc/x86_64-w64-mingw32/4.8.1/include-fixed"/>
+					<Add directory="d:\c\64\mingw64\bin\../lib/gcc/x86_64-w64-mingw32/4.8.1/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/C/64/MinGW64/bin/mingw32-make.exe -f &quot;D:/CLionProjects/GymCard/cmake-build-debug/Makefile&quot;  VERBOSE=1 GymCard/fast"/>
+					<CompileFile command="D:/C/64/MinGW64/bin/mingw32-make.exe -f &quot;D:/CLionProjects/GymCard/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/C/64/MinGW64/bin/mingw32-make.exe -f &quot;D:/CLionProjects/GymCard/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/C/64/MinGW64/bin/mingw32-make.exe -f &quot;D:/CLionProjects/GymCard/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="D:/CLionProjects/GymCard/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/C/64/MinGW64/bin/mingw32-make.exe -f &quot;D:/CLionProjects/GymCard/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="D:/C/64/MinGW64/bin/mingw32-make.exe -f &quot;D:/CLionProjects/GymCard/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/C/64/MinGW64/bin/mingw32-make.exe -f &quot;D:/CLionProjects/GymCard/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/C/64/MinGW64/bin/mingw32-make.exe -f &quot;D:/CLionProjects/GymCard/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="D:/CLionProjects/GymCard/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/C/64/MinGW64/bin/mingw32-make.exe -f &quot;D:/CLionProjects/GymCard/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="D:/C/64/MinGW64/bin/mingw32-make.exe -f &quot;D:/CLionProjects/GymCard/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/C/64/MinGW64/bin/mingw32-make.exe -f &quot;D:/CLionProjects/GymCard/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/C/64/MinGW64/bin/mingw32-make.exe -f &quot;D:/CLionProjects/GymCard/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="D:/CLionProjects/GymCard/AllHeader.h">
+			<Option target="GymCard"/>
+		</Unit>
+		<Unit filename="D:/CLionProjects/GymCard/GenerationCard.h">
+			<Option target="GymCard"/>
+		</Unit>
+		<Unit filename="D:/CLionProjects/GymCard/OperationCardLib.h">
+			<Option target="GymCard"/>
+		</Unit>
+		<Unit filename="D:/CLionProjects/GymCard/QueryCard.h">
+			<Option target="GymCard"/>
+		</Unit>
+		<Unit filename="D:/CLionProjects/GymCard/main.cpp">
+			<Option target="GymCard"/>
+		</Unit>
+		<Unit filename="D:/CLionProjects/GymCard/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

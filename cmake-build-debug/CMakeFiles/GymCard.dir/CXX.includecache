@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/CLionProjects/GymCard/AllHeader.h
+GenerationCard.h
+D:/CLionProjects/GymCard/GenerationCard.h
+QueryCard.h
+D:/CLionProjects/GymCard/QueryCard.h
+
+D:/CLionProjects/GymCard/GenerationCard.h
+objbase.h
+-
+string
+-
+OperationCardLib.h
+D:/CLionProjects/GymCard/OperationCardLib.h
+
+D:/CLionProjects/GymCard/OperationCardLib.h
+
+D:/CLionProjects/GymCard/QueryCard.h
+OperationCardLib.h
+D:/CLionProjects/GymCard/OperationCardLib.h
+
+D:/CLionProjects/GymCard/main.cpp
+iostream
+-
+AllHeader.h
+D:/CLionProjects/GymCard/AllHeader.h
+
